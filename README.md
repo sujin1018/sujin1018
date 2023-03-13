@@ -1,7 +1,10 @@
 ### Hi there 👋
+|✨My Stats Card✨|
+|:---:|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin1018&show_icons=true&theme=buefy)
 
 <!--
-**sujin1018/sujin1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sujin1018/sujin1018 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin1018&count_bg=%23FEBEB0&title_bg=%232F365F&icon=&icon_color=%2331383F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -94,15 +94,33 @@
   </div>
 
   </td></tr></table>  
-
+  
   <br/> 
   <br />
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin1018&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <br/> 
+  <br/>
+   ---
+   ### ⭐My certificate⭐
+   ##### 정보처리기사
+   ##### 빅데이터분석기사
+   ##### SQL Developer(SQLD)
+   ##### AWS Certified Cloud Practitioner
+    
+   <br/> 
+    
+   ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/64060916/228220448-863ad64e-fd4e-4545-874d-d9052662f76d.png)
+    
+    
+  <br/> 
+  <br/>
     
   </div>  
   </div>
 </details>
+
+
 
 
 <details>

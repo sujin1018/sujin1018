@@ -139,8 +139,8 @@
   <br />
   
 ## ✨Github contribution graph✨
-[![sujin1018's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujin1018&bg_color=FFFFFF&color=827EEC&title_color=827EEC&line=827EEC&point=44437A)](https://github.com/sujin1018/github-readme-activity-graph)
-  
+<!-- [![sujin1018's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujin1018&bg_color=FFFFFF&color=827EEC&title_color=827EEC&line=827EEC&point=44437A)](https://github.com/sujin1018/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujin1018&bg_color=ffffff&color=9687c0&line=8075d7&point=928aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
   

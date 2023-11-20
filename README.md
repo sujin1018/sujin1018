@@ -110,6 +110,7 @@
    ##### 빅데이터분석기사
    ##### SQL Developer(SQLD)
    ##### AWS Certified Cloud Practitioner
+   ##### 데이터분석준전문가(ADsP)
     
    <br/> 
     

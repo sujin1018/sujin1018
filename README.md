@@ -27,9 +27,17 @@
   |:---:|
   |![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin1018&show_icons=true&theme=buefy)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin1018&count_bg=%23FEBEB0&title_bg=%232F365F&icon=&icon_color=%2331383F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujin1018&count_bg=%23FEBEB0&title_bg=%232F365F&icon=&icon_color=%2331383F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
+### My Tech Blog 💻
+<a alt="Blog" href="https://starsand112.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 
+### Contact  ✉️
+<a href="mailto:soojin_expo@naver.com">
+  <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=soojin_expo@naver.com"/>
+</a>
   
 </div>
 

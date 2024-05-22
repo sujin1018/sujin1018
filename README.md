@@ -54,7 +54,6 @@
 
 <div align="center">  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -84,8 +83,8 @@
   ### Backend
   <div align="center">  
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-  </div>
+  <!-- <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+  </div> -->
 
   </td><td valign="top">
 
@@ -114,11 +113,12 @@
   <br/>
    ---
    ### ⭐My certificate⭐
-   ##### 정보처리기사
-   ##### 빅데이터분석기사
-   ##### SQL Developer(SQLD)
-   ##### AWS Certified Cloud Practitioner
-   ##### 데이터분석준전문가(ADsP)
+   ##### 정보처리기사 (2021.08.20)
+   ##### 빅데이터분석기사 (2022.12.23)
+   --
+   ##### SQL Developer(SQLD) (2022.04.08)
+   ##### AWS Certified Cloud Practitioner (2023.03.28)
+   ##### 데이터분석준전문가(ADsP) (2023.09.15)
     
    <br/> 
     

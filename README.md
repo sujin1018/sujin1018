@@ -21,7 +21,15 @@
 
     Hello, I'm sujin👋 Welcome to my github😊
 
-  <br /> <br />
+  <br />
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/sujin1018"
+    width="500"
+    height="300"
+  />
+  </a>
+  <br /> 
   
   |✨My Stats Card✨|
   |:---:|
